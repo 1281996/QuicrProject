@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="ProductConsumer"/>
+<aop-project name="discovery-server"/>
+<aop-project name="ProductProducer"/>
+<aop-project name="gateway-service"/>
+<aop-project name="productPage"/>
+<aop-project name="LoginConsumer"/>
+<aop-project name="JavaMail"/>
+<aop-project name="LoginProducer"/>
+</aop-reference-model>
